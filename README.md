@@ -1,2 +1,2 @@
-# Mi-Primier-Sitio-Web
-Mi Primier Sitio Web
+# 🚀  Mi Primier Sitio-Web
+"En el año 2017, desarrollé mi primer sitio web utilizando una plantilla. En ese momento, estaba comenzando a comprender los conceptos fundamentales de HTML, CSS y Bootstrap 4. Este proyecto fue un hito importante para nuestro emprendimiento y fue elaborado por el equipo del programa Oportunidades de la Fundación Gloria de Kriete. Además, este proyecto marcó el inicio de mi interés en el mundo de la tecnología."
